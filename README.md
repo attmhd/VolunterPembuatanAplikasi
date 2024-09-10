@@ -281,6 +281,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Arif Ambarita, [LinkedIn](www.linkedin.com/in/muhammadarif9245).
 * Muhammad Ariq Jagabaya, [LinkedIn](https://www.linkedin.com/in/muhammad-ariq-jagabaya-770/).
 * Muhammad As'ad Muyassir, [LinkedIn](https://www.linkedin.com/in/m-asad-m/).
+* Muhammad Attan, [Linkedin](https://www.linkedin.com/in/muhammad-attan-039581226/).
 * Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
 * Muhammad Azar Nuzy, [LinkedIn](https://www.linkedin.com/in/muhammad-azar-nuzy-99681a212/).
 * Muhammad Bayu Faqih,  [LinkedIn](https://www.linkedin.com/in/muhammad-b-b88b68139/)
